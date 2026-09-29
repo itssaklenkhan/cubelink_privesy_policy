@@ -1,8 +1,8 @@
-# Privacy Policy for CubeLink
+# Privacy Policy for Tactile Cube Puzzle
 
 **Effective Date:** September 29, 2026
 
-This privacy policy applies to the **CubeLink** app (hereby referred to as "Application") for mobile devices that was created as a free ad-supported service. This service is intended for use "AS IS".
+This privacy policy applies to the **Tactile Cube Puzzle** app (hereby referred to as "Application") for mobile devices that was created as a free ad-supported service. This service is intended for use "AS IS".
 
 ## 1. Information Collection and Use
 
@@ -43,4 +43,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 
 ## 6. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **[YOUR CONTACT EMAIL HERE]**.
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at **[developer000@gmail.com]**.
